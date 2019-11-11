@@ -1,0 +1,9 @@
+C:\Users\rayadav\source\repos\Game\Game.Service\bin\Debug\netstandard2.0\Game.Service.deps.json
+C:\Users\rayadav\source\repos\Game\Game.Service\bin\Debug\netstandard2.0\Game.Service.dll
+C:\Users\rayadav\source\repos\Game\Game.Service\bin\Debug\netstandard2.0\Game.Service.pdb
+C:\Users\rayadav\source\repos\Game\Game.Service\obj\Debug\netstandard2.0\Game.Service.csprojAssemblyReference.cache
+C:\Users\rayadav\source\repos\Game\Game.Service\obj\Debug\netstandard2.0\Game.Service.csproj.CoreCompileInputs.cache
+C:\Users\rayadav\source\repos\Game\Game.Service\obj\Debug\netstandard2.0\Game.Service.AssemblyInfoInputs.cache
+C:\Users\rayadav\source\repos\Game\Game.Service\obj\Debug\netstandard2.0\Game.Service.AssemblyInfo.cs
+C:\Users\rayadav\source\repos\Game\Game.Service\obj\Debug\netstandard2.0\Game.Service.dll
+C:\Users\rayadav\source\repos\Game\Game.Service\obj\Debug\netstandard2.0\Game.Service.pdb
